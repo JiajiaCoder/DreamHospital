@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dream-hospital-UserMa</artifactId>
+    <artifactId>dream-hospital-Common</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.hospital</groupId>
-            <artifactId>dream-hospital-Common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+
 </project>
